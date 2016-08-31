@@ -8,7 +8,7 @@
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["https://quest.cns.utexas.edu/*"]
+    "matches": ["<all_urls>"]
   }]
 
 }

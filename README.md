@@ -1,3 +1,8 @@
-# Create a Chrome extension to modify a website's HTML or CSS
+#Kittens
 
-See post: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
+##installation
+
+1. Extract ```download```
+2. go to ```chrome://extensions```
+3. Drag extracted ```download``` folder to page
+4. Enjoy!

@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Kittens",
+  "version": "0.1.0",
+  "description": "Inspired by https://placekitten.com, we change the background image of the current website to a kitten no matter what",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://quest.cns.utexas.edu/*"]
+  }]
+
+}
